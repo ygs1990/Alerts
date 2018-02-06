@@ -1,7 +1,7 @@
-##一、组件名称：Alerts
+## 一、组件名称：Alerts
 前段时间公司做项目要用到弹窗，并且弹窗的内容等各不相同，于是自己动手了个弹窗组件，下面是关于该组件的一些信息。
 
-##二、Alerts功能：可根据需要
+## 二、Alerts功能：可根据需要
 * 设置弹窗宽度
 * 设置弹窗高度
 * 设置弹窗背景色
@@ -17,7 +17,7 @@
 * 设置是否需要禁止鼠标滚动
 * 执行确定后的回调
 
-##三、Alerts具体参数如下：
+## 三、Alerts具体参数如下：
  * wdith：弹窗宽度, number，默认为：500px
  * height: 弹窗高度, number，默认为：auto
  * bgColor: 弹窗背景色, string，默认为：#fff
@@ -33,7 +33,7 @@
  * scrollEvent: 弹窗时是否禁止鼠标滚动事件, boolean，默认为：false
  * confirmEvent: 点击确定按钮时执行的回调函数, function，默认为：空函数
 
-##四、Alerts怎么使用？
+## 四、Alerts怎么使用？
 * 首先在HTML头部引入CSS、image及js文件。
 * 然后在HTML中建立一个容器用于存放弹窗信息并设置ID（建议）。
 * 在js中调用Alerts,假设容器ID为pop,实例代码如下：
