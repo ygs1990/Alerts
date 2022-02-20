@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T06:45:04.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="CSSpyO5gJ_Y5Z1z6YPKD" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T06:54:09.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="h16PNLQ6JIAMPbHmjBTj" version="16.6.1" type="github">
   <diagram id="Vn3sLneKFZPjJrJGzjKy" name="Page-1">
     <mxGraphModel dx="1422" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,19 +15,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BfZCbma0hFOJCQdnXa2b-1" value="JOB-SERVICE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BfZCbma0hFOJCQdnXa2b-1" value="JOB-SERVICE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BfZCbma0hFOJCQdnXa2b-3" value="start.js启动JOB配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BfZCbma0hFOJCQdnXa2b-3" value="start.js启动JOB配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BfZCbma0hFOJCQdnXa2b-4" value="package.json配置命令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BfZCbma0hFOJCQdnXa2b-4" value="package.json配置命令" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="400" y="160" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BfZCbma0hFOJCQdnXa2b-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BfZCbma0hFOJCQdnXa2b-5" target="BfZCbma0hFOJCQdnXa2b-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BfZCbma0hFOJCQdnXa2b-5" value="执行JOB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BfZCbma0hFOJCQdnXa2b-5" value="执行JOB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BfZCbma0hFOJCQdnXa2b-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BfZCbma0hFOJCQdnXa2b-6" target="BfZCbma0hFOJCQdnXa2b-4">
@@ -47,13 +47,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BfZCbma0hFOJCQdnXa2b-6" value="启动JOB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BfZCbma0hFOJCQdnXa2b-6" value="启动JOB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BfZCbma0hFOJCQdnXa2b-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BfZCbma0hFOJCQdnXa2b-7" target="BfZCbma0hFOJCQdnXa2b-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BfZCbma0hFOJCQdnXa2b-7" value="对应JOB类型的&lt;br&gt;child-processor.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BfZCbma0hFOJCQdnXa2b-7" value="对应JOB类型的&lt;br&gt;child-processor.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BfZCbma0hFOJCQdnXa2b-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BfZCbma0hFOJCQdnXa2b-8" target="BfZCbma0hFOJCQdnXa2b-9">
@@ -64,7 +64,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BfZCbma0hFOJCQdnXa2b-8" value="job-executor.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BfZCbma0hFOJCQdnXa2b-8" value="job-executor.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BfZCbma0hFOJCQdnXa2b-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BfZCbma0hFOJCQdnXa2b-9" target="BfZCbma0hFOJCQdnXa2b-24">
@@ -91,37 +91,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BfZCbma0hFOJCQdnXa2b-9" value="执行具体的job（如：export-batch-search-zz.js）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BfZCbma0hFOJCQdnXa2b-9" value="执行具体的job（如：export-batch-search-zz.js）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="480" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BfZCbma0hFOJCQdnXa2b-24" value="1、获取导出参数&lt;br&gt;getParams" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BfZCbma0hFOJCQdnXa2b-24" value="1、获取导出参数&lt;br&gt;getParams" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="120" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BfZCbma0hFOJCQdnXa2b-25" value="2、获取导出配置&lt;br&gt;getConfig" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BfZCbma0hFOJCQdnXa2b-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.809;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BfZCbma0hFOJCQdnXa2b-25" target="BfZCbma0hFOJCQdnXa2b-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BfZCbma0hFOJCQdnXa2b-25" value="2、获取导出配置&lt;br&gt;getConfig" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="280" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BfZCbma0hFOJCQdnXa2b-26" value="3、生成excel文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BfZCbma0hFOJCQdnXa2b-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BfZCbma0hFOJCQdnXa2b-26" target="BfZCbma0hFOJCQdnXa2b-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BfZCbma0hFOJCQdnXa2b-26" value="3、生成excel文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="440" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BfZCbma0hFOJCQdnXa2b-27" value="4、发送邮件&lt;br&gt;sendEmail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BfZCbma0hFOJCQdnXa2b-27" value="4、发送邮件&lt;br&gt;sendEmail" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="600" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BfZCbma0hFOJCQdnXa2b-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BfZCbma0hFOJCQdnXa2b-32" target="BfZCbma0hFOJCQdnXa2b-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BfZCbma0hFOJCQdnXa2b-32" value="按照企业来拆分导出所有的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="680" width="120" height="40" as="geometry" />
+        <mxCell id="BfZCbma0hFOJCQdnXa2b-32" value="exportMethod（1）：按照企业来拆分导出所有的数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="680" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BfZCbma0hFOJCQdnXa2b-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BfZCbma0hFOJCQdnXa2b-33" target="BfZCbma0hFOJCQdnXa2b-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BfZCbma0hFOJCQdnXa2b-33" value="一个excel导出所有维度的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="760" width="120" height="40" as="geometry" />
+        <mxCell id="BfZCbma0hFOJCQdnXa2b-33" value="exportMethod（0）：一个excel导出所有维度的数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="760" width="319" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BfZCbma0hFOJCQdnXa2b-34" value="generateExcelByEid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BfZCbma0hFOJCQdnXa2b-34" value="generateExcelByEid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="440" y="680" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BfZCbma0hFOJCQdnXa2b-35" value="generateExcel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BfZCbma0hFOJCQdnXa2b-35" value="generateExcel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="440" y="760" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
